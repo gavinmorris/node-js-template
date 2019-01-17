@@ -1,7 +1,7 @@
 {
   "name": "node-js-template",
   "version": "1.0.0",
-  "description": "joma's template",
+  "description": "Gavin's template",
   "main": "index.js",
   "dependencies": {
     "ejs": "^2.5.9",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jomaoppa/node-js-template.git"
+    "url": "git+https://github.com/gavinmorris/node-js-template.git"
   },
   "keywords": [
     "node"
   ],
-  "author": "Joma",
+  "author": "Gav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jomaoppa/node-js-template/issues"
+    "url": "https://github.com/gavinmorris/node-js-template/issues"
   },
-  "homepage": "https://github.com/jomaoppa/node-js-template#readme"
+  "homepage": "https://github.com/gavinmorris/node-js-template#readme"
 }
